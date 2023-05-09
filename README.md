@@ -1,0 +1,4 @@
+# calculando
+
+#EDIT 2023:
+A PRIMEIRA CALCULADORA QUE EU FIZ.
