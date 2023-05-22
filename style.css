@@ -60,3 +60,7 @@ button:active{
     width: calc(50% - 2px);
     background-color: rgb(87, 172, 252);
 }
+footer{
+    display: absolute;
+    bottom: 0;
+}
